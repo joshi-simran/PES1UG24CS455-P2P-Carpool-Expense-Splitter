@@ -16,18 +16,18 @@ for the Peer-to-Peer Carpooling & Expense Splitter System.
 
 ### Documents included:
 
-- **Requirements Table** – Contains the Functional Requirements (FRs),
+- **[Requirements Table](./1-RE/Requirements_Table.xlsx)** – Contains the Functional Requirements (FRs),
   Non-Functional Requirements (NFRs), and Requirements Traceability Matrix (RTM).
-- **UML Use-Case Diagram** – Represents the actors, primary use cases, and
+- **[UML Use-Case Diagram](./1-RE/UML_Diagram.pdf)** – Represents the actors, primary use cases, and
   relationships within the system.
-- **Use-Case Flow Specification** – Provides the preconditions, postconditions,
+- **[Use-Case Flow Specification](./1-RE/Use-Case_Flow_Specification.docx)** – Provides the preconditions, postconditions,
   main success scenario, and alternate flow for the selected use case.
-- **Alternate Case Diagram** – Represents the alternate flow for the
+- **[Alternate Case Diagram](./1-RE/Alternate_Case_Diagram.pdf)** – Represents the alternate flow for the
   "Search for Available Rides" use case when no compatible ride is found.
-- **Exception Flow Document** – Describes the exception handling when a
+- **[Exception Flow Document](Exception_Flow_Document.docx)** – Describes the exception handling when a
   driver's route requires a detour greater than 1.5 km.
 
-📁 **[Open 1-RE Folder](./1-RE/)**
+📁 **[1-RE Folder](./1-RE/)**
 
 ---
 
@@ -38,10 +38,10 @@ This folder contains the architectural design deliverables for the project.
 The selected architecture for the **Peer-to-Peer Carpooling & Expense Splitter System** is **Layered Architecture**, consisting of Presentation, Business Logic, and Data layers.
 
 **Contents:**
-- UML Component Diagram
-- Architecture Selection and Justification
+- [UML Component Diagram](./2-Architectural_Diagram/Component_Diagram.png)
+- [Architecture Selection and Justification](./2-Architectural_Diagram/Architecture_Selection.pdf)
 
-📁 **[Open 2-Architectural-Diagram Folder](./2-Architectural_Diagram/)**
+📁 **[2-Architectural-Diagram Folder](./2-Architectural_Diagram/)**
 
 ---
 
