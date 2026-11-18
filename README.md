@@ -30,21 +30,18 @@ for the Peer-to-Peer Carpooling & Expense Splitter System.
 📁 **[1-RE Folder](./1-RE/)**
 
 ---
-## 2. : Agile Backlog Creation & Sprint Simulation in Jira
+## 2. Agile Backlog Creation & Sprint Simulation in Jira
 
-This lab applies Agile project management practices to the Peer-to-Peer Carpooling & Expense Splitter System using Jira. The functional and non-functional requirements identified during Requirements Engineering were organized into Epics, User Stories, Tasks, and Subtasks, then prioritized and tracked through simulated Scrum sprints.
+This folder contains the Agile backlog creation and sprint simulation deliverables for the Peer-to-Peer Carpooling & Expense Splitter System using Jira.
 
-Activities completed
-- Kanban backlog: Created five Epics covering ride discovery and route matching, ride publishing and request management, ride cost sharing, data security, and system performance.
-- Requirements breakdown: Organized five functional requirements and two non-functional requirements into relevant Jira work items, with associated user stories and subtasks.
-- Prioritization and estimation: Assigned priorities to backlog items and estimated Scrum user stories using story points.
-- Sprint simulation: Planned and simulated two Scrum sprints, moving work items through To Do → In Progress → Done.
-- Progress tracking: Generated a Jira burndown chart for Sprint 2, showing the remaining estimated work decrease from 6 story points to 0.
-Documents prepared
-- Kanban.pdf – Screenshots of the Kanban backlog, Epics, requirements, user stories, tasks, subtasks, and their hierarchy.
-- Scrum.pdf – Screenshots of the Scrum backlog, story prioritization, sprint simulations, and burndown chart.
-- Reflection Questions.pdf
-The two PDF reports document the Jira configuration and sprint simulation. 
+**Contents:**
+- **[Kanban](./2-Jira/Kanban.pdf)** – Shows the Epics, User Stories, Tasks, Subtasks, and prioritized backlog.
+- **[Scrum](./2-Jira/Scrum.pdf)** – Shows story point estimation, two sprint simulations, and the Burndown Chart.
+- **[Reflection Questions](./2-Jira/Reflection_Questions.pdf)** – Contains reflections on story point estimation, backlog prioritization, sprint execution, and team capacity.
+
+📁 **[2-Jira Folder](./2-Jira/)**
+
+---
 
 ## 3. Architectural Diagram
 
