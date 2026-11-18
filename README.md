@@ -30,8 +30,23 @@ for the Peer-to-Peer Carpooling & Expense Splitter System.
 📁 **[1-RE Folder](./1-RE/)**
 
 ---
+## 2. : Agile Backlog Creation & Sprint Simulation in Jira
 
-## 2. Architectural Diagram
+This lab applies Agile project management practices to the Peer-to-Peer Carpooling & Expense Splitter System using Jira. The functional and non-functional requirements identified during Requirements Engineering were organized into Epics, User Stories, Tasks, and Subtasks, then prioritized and tracked through simulated Scrum sprints.
+
+Activities completed
+- Kanban backlog: Created five Epics covering ride discovery and route matching, ride publishing and request management, ride cost sharing, data security, and system performance.
+- Requirements breakdown: Organized five functional requirements and two non-functional requirements into relevant Jira work items, with associated user stories and subtasks.
+- Prioritization and estimation: Assigned priorities to backlog items and estimated Scrum user stories using story points.
+- Sprint simulation: Planned and simulated two Scrum sprints, moving work items through To Do → In Progress → Done.
+- Progress tracking: Generated a Jira burndown chart for Sprint 2, showing the remaining estimated work decrease from 6 story points to 0.
+Documents prepared
+- Kanban.pdf – Screenshots of the Kanban backlog, Epics, requirements, user stories, tasks, subtasks, and their hierarchy.
+- Scrum.pdf – Screenshots of the Scrum backlog, story prioritization, sprint simulations, and burndown chart.
+- Reflection Questions.pdf
+The two PDF reports document the Jira configuration and sprint simulation. 
+
+## 3. Architectural Diagram
 
 This folder contains the architectural design deliverables for the project.
 
